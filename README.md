@@ -1,0 +1,2 @@
+# Transport-Emission-Prediction-using-Logistic-Regression
+This project uses a Logistic Regression model to predict whether a vehicle passes or fails an emission test. The dataset is analyzed, split into training and testing data, and evaluated using accuracy score, confusion matrix, and classification report. A heatmap visualization of the confusion matrix is displayed to understand model performance.
